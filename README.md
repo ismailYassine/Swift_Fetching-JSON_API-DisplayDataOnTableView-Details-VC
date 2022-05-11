@@ -1,0 +1,2 @@
+# Swift--Fetching-JSON-data-from-an-API-DisplayDataOnTableView-Details-VC![Simulator Screen Shot - iPhone 11 Pro - 2022-05-11 at 13 06 55](https://user-images.githubusercontent.com/97139344/167908000-72c8bdde-7fff-404e-971e-4e725151572c.png)
+![Simulator Screen Shot - iPhone 11 Pro - 2022-05-11 at 13 06 58](https://user-images.githubusercontent.com/97139344/167908021-bd9a2e7f-6421-44f0-98d5-a387b319269d.png)
